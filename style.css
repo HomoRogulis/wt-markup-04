@@ -12,7 +12,7 @@ body {
 
 header {
     background-color: #333;
-    color: rgb(158, 150, 38);
+    color: rgb(218, 165, 32);
     text-align: center;
     padding: 20px;
 }
@@ -24,7 +24,7 @@ header {
 }
 
 .nav-menu a {
-    color: rgb(121, 10, 102);
+    color: rgb(168, 10, 90);
     text-decoration: none;
     padding: 10px;
 }
@@ -42,7 +42,7 @@ header {
 }
 
 .block {
-    background-color: rgb(25, 136, 93);
+    background-color: rgb(46, 139, 87);
     padding: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     flex: 1 1 calc(50% - 40px);
@@ -52,7 +52,7 @@ header {
 
 footer {
     background-color: #da2b2b;
-    color: rgb(28, 151, 145);
+    color: rgb(32, 178, 170);
     text-align: center;
     padding: 10px;
     margin-top: 20px;
